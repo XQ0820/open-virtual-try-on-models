@@ -1,5 +1,7 @@
 # Open Virtual Try-On Models: Licenses and Commercial Use
 
+![Open virtual try-on models cover: commercial use looks possible for 5, non-commercial for 11, beside a before/after try-on](assets/open-virtual-try-on-models-cover.png)
+
 Which open-source virtual try-on models can you actually ship in a product?
 Most try-on repos are research code, and most of their weights are released
 under **non-commercial** licenses. This list sorts the popular ones by what
